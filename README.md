@@ -1,0 +1,2 @@
+An unhandled exception occurred while processing the request.
+JsonException: A possible object cycle was detected. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32. Consider using ReferenceHandler.Preserve on JsonSerializerOptions to support cycles. Path: $.Invitations.Customer.Invitations.Customer.Invitations.Customer.Invitations.Customer.Invitations.Customer.Invitations.Customer.Invitations.Customer.Invitations.Customer.Invitations.Customer.Invitations.Customer.Id.
